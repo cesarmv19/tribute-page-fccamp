@@ -1,0 +1,40 @@
+main{
+    background-color: rgba(149, 200, 181, 0.8);
+    border-radius: 5px;
+}
+#title{
+    font-family: 'Signika Negative', sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 45px;
+}
+#img-caption{
+    font-family: 'Signika Negative', sans-serif;
+    padding: 10px;
+}
+#img-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 5px;
+}
+#image{
+    max-width: 100%;
+    height: auto;
+    padding-top: 20px;
+    border-radius: 5px;
+}
+#tribute-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Signika Negative', sans-serif;
+}
+#text-link{
+    display: flex;
+    justify-content: center;
+    font-family: 'Signika Negative', sans-serif;
+}
